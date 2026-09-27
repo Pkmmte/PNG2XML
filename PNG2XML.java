@@ -130,7 +130,7 @@ public class PNG2XML
        }
        catch (Exception e)
        {
-            System.out.println("Oops, an error occured while writing appmap.xml");
+            System.out.println("Oops, an error occurred while writing appmap.xml");
        }      
         //Save appfilter.xml
         try
@@ -142,7 +142,7 @@ public class PNG2XML
        }
        catch (Exception e)
        {
-            System.out.println("Oops, an error occured while writing appfilter.xml");
+            System.out.println("Oops, an error occurred while writing appfilter.xml");
        }    
         // Save drawable.xml
         try
@@ -154,7 +154,7 @@ public class PNG2XML
         }
         catch(Exception e)
         {
-            System.out.println("Oops, an error occured while writing drawable.xml");
+            System.out.println("Oops, an error occurred while writing drawable.xml");
         }
        //Save iconlist.txt (just for reference)
         try
@@ -166,7 +166,7 @@ public class PNG2XML
        }
        catch (Exception e)
        {
-            System.out.println("Oops, an error occured while writing iconlist.txt");
+            System.out.println("Oops, an error occurred while writing iconlist.txt");
        }          
         // Save icon_pack.xml
         try
@@ -178,7 +178,7 @@ public class PNG2XML
         }
         catch(Exception e)
         {
-            System.out.println("Oops, an error occured while writing icon_pack.xml");
+            System.out.println("Oops, an error occurred while writing icon_pack.xml");
         }
         // Save theme_resources.xml
         try
@@ -190,7 +190,7 @@ public class PNG2XML
         }
         catch(Exception e)
         {
-            System.out.println("Oops, an error occured while writing theme_resources.xml");
+            System.out.println("Oops, an error occurred while writing theme_resources.xml");
         }
               
     }
